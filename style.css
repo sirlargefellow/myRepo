@@ -1,28 +1,48 @@
-#WorkHistorySection{
+#WorkHistorySection {
+    border: 2px solid ; /* Define border first */
     border-top-left-radius: 0;
-   border-bottom-left-radius: 0;
-   border-bottom-right-radius: 4em;
-    border-color: #FFB3FF;
-    text-align: c;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 4em;
     background-color: #FFB3FF;
+    padding: 10%;
+    margin: 6%;
 }
+
 body{
-    margin: 12%;
-    padding: 2%;
+    margin: 10%;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
 #name{
     color: rgba(255, 255, 255,);
     text-align: center;
-    background: #FFB3FF;
-    text-shadow: 4px 3px 4px;
+    text-shadow: px 8px 6px;
 }
 table{
     border-width: ;
      border-color: #FFB3FF;
      background-color: #FFB3FF;
+     margin: 0 auto;
  }
 nav{
-    padding-left: 33%;
-    padding-right: 33%;
+    align-content: center;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid;
+    background-color: #FFB3FF;
+}
+tr{
+    margin: 0 auto;
+    border
+}
+td{
+    margin: 0 auto;
+    border
+}
+#form{
+    
+}
+footer{
+    background-color: #FFB3FF;
+    border: 2px solid;
 }
