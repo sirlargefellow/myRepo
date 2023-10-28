@@ -3,25 +3,36 @@
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 4em;
-    background-color: #FFB3FF;
+    background-color: #d74a49;
     padding: 10%;
     margin: 6%;
+}
+#skills{
+
+    color: black;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    font-size: x-large;
 }
 
 body{
     margin: 10%;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #8ba0a4;
+    color: ;
     
 }
 #name{
     color: rgba(255, 255, 255,);
     text-align: center;
     text-shadow: px 8px 6px;
+    font-family:
 }
 table{
     border-width: ;
-     border-color: #FFB3FF;
-     background-color: #FFB3FF;
+     border-color: #d74a49;
+     background-color: #d74a49;
      margin: 0 auto;
  }
 nav{
@@ -29,7 +40,7 @@ nav{
     margin: 0 auto;
     text-align: center;
     border: 2px solid;
-    background-color: #FFB3FF;
+    background-color: #d74a49;
 }
 tr{
     margin: 0 auto;
@@ -43,6 +54,7 @@ td{
     
 }
 footer{
-    background-color: #FFB3FF;
+    background-color: #d74a49;
     border: 2px solid;
+    padding: 5%;
 }
