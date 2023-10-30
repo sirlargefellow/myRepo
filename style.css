@@ -38,11 +38,12 @@ body {
     text-shadow: px 8px 6px;
     font-family:
 }
-table{
+table, p{
     border-width: ;
-     border-color: #d74a49;
-     background-color: #d74a49;
+    /* border-color: #d74a49;
+     background-color: #d74a49;*/
      margin: 0 auto;
+     
  }
 nav{
     align-content: center;
@@ -68,7 +69,11 @@ td{
     
 }
 footer{
-    background-color: #d74a49;
+
+background: -moz-linear-gradient(-45deg, #BC5090 0%, #2C4875 100%);
+background: -webkit-linear-gradient(-45deg, #BC5090 0%, #2C4875 100%);
+background: linear-gradient(135deg, #BC5090 0%, #2C4875 100%);
+
     border: 2px solid;
     padding: 5%;
 }
